@@ -1,0 +1,6 @@
+{
+  "name": "AMT & Vikitiva Health Care Centre - Hospital Management System",
+  "description": "Comprehensive Hospital & Clinical Management System for AMT & Vikitiva Health Care Centre (Bo City, Sierra Leone) featuring Admissions, Observation, Laboratory, Pharmacy, Surgery, Ultrasound Scanning, and Emergency/Accident triage with AI-assisted clinical tools and a collapsible workspace sidebar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
